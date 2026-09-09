@@ -2,11 +2,11 @@
 
 Canal oficial de instaladores y actualizaciones firmadas de FocusNotch. El código fuente se mantiene en un repositorio privado.
 
-Versión actual: **[FocusNotch 2.1.0](https://github.com/Soakkk/FocusNotch-Releases/releases/tag/v2.1.0)**. Requiere macOS 14 Sonoma o posterior y es universal para Apple Silicon e Intel.
+Versión actual: **[FocusNotch 2.1.1](https://github.com/Soakkk/FocusNotch-Releases/releases/tag/v2.1.1)**. Requiere macOS 14 Sonoma o posterior y es universal para Apple Silicon e Intel.
 
-[Descargar FocusNotch 2.1.0.dmg](https://github.com/Soakkk/FocusNotch-Releases/releases/download/v2.1.0/FocusNotch-2.1.0.dmg)
+[Descargar FocusNotch 2.1.1.dmg](https://github.com/Soakkk/FocusNotch-Releases/releases/download/v2.1.1/FocusNotch-2.1.1.dmg)
 
-Cierra la versión anterior, abre el DMG y arrastra FocusNotch a Aplicaciones para sustituirla. El historial se conserva. Incluye cuatro temas, barra más fina y contador en la barra de menús. La búsqueda y descarga automáticas vienen activadas y pueden cambiarse en Ajustes.
+Cierra la versión anterior, abre el DMG y arrastra FocusNotch a Aplicaciones para sustituirla. El historial se conserva. Incluye cuatro temas, barra más fina y contador en la barra de menús. El contador de la barra de menús ajusta automáticamente su contraste al fondo de macOS. La búsqueda y descarga automáticas vienen activadas y pueden cambiarse en Ajustes.
 
 Esta distribución personal utiliza firma local ad hoc, sin notarización de Apple. Mantiene el sandbox y las firmas del catálogo y las actualizaciones, con una excepción de validación de bibliotecas limitada a FocusNotch para cargar el actualizador.
 
