@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>FocusNotch</title>
+        <item>
+            <title>2.1.0</title>
+            <pubDate>Wed, 09 Sep 2026 13:50:37 +0200</pubDate>
+            <sparkle:version>21000</sparkle:version>
+            <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink sparkle:edSignature="b1FwvaL8A5EV08Whgp9EYNImM4E+FFwsho3AeRqehfU7oCQB6JM8yYvYEyL0pFeLlVLzI0N3ItQEBRIKXoUWDg==" sparkle:length="1075">https://github.com/Soakkk/FocusNotch-Releases/releases/download/v2.1.0/FocusNotch-2.1.0.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/Soakkk/FocusNotch-Releases/releases/download/v2.1.0/FocusNotch-2.1.0.dmg" length="5202613" type="application/octet-stream" sparkle:edSignature="I2WzXOpRDXPJhn52nG+KJtpOg+PQThOgc+tfnOsuFDfhvw/SxNUwyknYiQNPJwMzuqQC2MJbxX5OlA19B/KpCQ=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: en+MunkzdR783UqTZQA/OnxrZMWPYUlysD6KO6+2oPQ0BReHMHhVX7V3d2rx56/l4F68thdhS//JqY5PTMxGAQ==
+length: 1347
+-->
