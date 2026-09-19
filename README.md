@@ -2,12 +2,14 @@
 
 Temporizador flotante para macOS y Windows 11. Canal oficial de instaladores y actualizaciones firmadas; el código fuente se mantiene privado.
 
-## Descargar 2.3.0
+## Descargar
 
-- [macOS: FocusNotch 2.3.0.dmg](https://github.com/Soakkk/FocusNotch-Releases/releases/download/v2.3.0/FocusNotch-2.3.0.dmg). macOS 14 o posterior; Apple Silicon e Intel.
+- [macOS: FocusNotch 2.3.1.dmg](https://github.com/Soakkk/FocusNotch-Releases/releases/download/v2.3.1/FocusNotch-2.3.1.dmg). macOS 14 o posterior; Apple Silicon e Intel.
 - [Windows 11 x64: FocusNotch Setup](https://github.com/Soakkk/FocusNotch-Releases/releases/download/windows-v2.3.0/FocusNotch-Windows-x64-Setup.exe). Instalación por usuario.
 
 La versión 2.3.0 incorpora la barra Sesión: cápsula fina, reloj digital, indicadores de bloques, progreso segmentado y efectos breves al interactuar o comenzar un bloque.
+
+En Mac, la versión 2.3.1 permite mover la barra arrastrando el reloj o los indicadores de sesión. La flecha abre los detalles. Windows continúa en 2.3.0.
 
 ## Si ya tienes FocusNotch
 
