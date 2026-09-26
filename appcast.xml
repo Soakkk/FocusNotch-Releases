@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>FocusNotch</title>
         <item>
-            <title>2.3.1</title>
-            <pubDate>Sat, 19 Sep 2026 16:53:37 +0200</pubDate>
-            <sparkle:version>23001</sparkle:version>
-            <sparkle:shortVersionString>2.3.1</sparkle:shortVersionString>
+            <title>2.4.0</title>
+            <pubDate>Sat, 26 Sep 2026 23:37:06 +0200</pubDate>
+            <sparkle:version>24000</sparkle:version>
+            <sparkle:shortVersionString>2.4.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="i5h4nyHe3kRBN4EUwm3BEljdQQdXKqpVUfAUzQXyt7C72jkgNp5xu0qm48OaIyg2eL+bw6QawdQQ1wuPtNaCBw==" sparkle:length="529">https://github.com/Soakkk/FocusNotch-Releases/releases/download/v2.3.1/FocusNotch-2.3.1.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/Soakkk/FocusNotch-Releases/releases/download/v2.3.1/FocusNotch-2.3.1.dmg" length="5732710" type="application/octet-stream" sparkle:edSignature="PB5iQojenwlrpYiskOxjZ4anbrDVN6p/PRElBqGqE475JHnGvAJRougrg8Qs0iIrbXb/AOlqjghOR2WFZFyrDg=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="mAYVYz2Ff3B8AtHKkzHfDzWaqc9/khOzT0zP64xG8RrPTLNwvXg9YwRRQbnl0Z9aHvayvHdYhwgfjwLTohQSCQ==" sparkle:length="2276">https://github.com/Soakkk/FocusNotch-Releases/releases/download/v2.4.0/FocusNotch-2.4.0.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/Soakkk/FocusNotch-Releases/releases/download/v2.4.0/FocusNotch-2.4.0.dmg" length="6617709" type="application/octet-stream" sparkle:edSignature="y+wCBuDrCDXlQG5nqWqWWc2X+RSYWq6q0AqMDRTu6zwr9JQskwS395k34FW1nYFhfS78arrpJPk0/wTo8uVZAQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: A0x2vF/MGMJMoUKO98ElaacqWiHduGwsPlKCuKqRmNoHxw69clr8N8w98p7ZIgLcKCBlitkHqUeQqiHT+LoUDA==
-length: 1346
+edSignature: 4B0kPevgT7rQmxK1EfVjIxXUGmmvWvnwWLbPbd7RJlKf3GsMaXhyaPbFn+EvTqhp69+i2fHPpardxgECEgNnAA==
+length: 1347
 -->
