@@ -4,7 +4,7 @@ Temporizador flotante para macOS y Windows 11. Canal oficial de instaladores y a
 
 ## Descargar
 
-- [macOS: FocusNotch 2.4.0.dmg](https://github.com/Soakkk/FocusNotch-Releases/releases/download/v2.4.0/FocusNotch-2.4.0.dmg). macOS 14 o posterior; Apple Silicon e Intel.
+- [macOS: FocusNotch 2.4.1.dmg](https://github.com/Soakkk/FocusNotch-Releases/releases/download/v2.4.1/FocusNotch-2.4.1.dmg). macOS 14 o posterior; Apple Silicon e Intel.
 - [Windows 11 x64: FocusNotch Setup](https://github.com/Soakkk/FocusNotch-Releases/releases/download/windows-v2.4.0/FocusNotch-Windows-x64-Setup.exe). Instalación por usuario.
 
 La versión 2.4.0, en Mac y en Windows, añade:
@@ -15,6 +15,8 @@ La versión 2.4.0, en Mac y en Windows, añade:
 - Objetivos con días de estudio y objetivo semanal.
 - Asignaturas y exámenes.
 - Un historial graduado según el objetivo.
+
+En Mac, la 2.4.1 corrige el cierre de la app a medianoche, al despertar el Mac otro día o al cambiar de zona horaria.
 
 Windows también gana fiabilidad (reloj preciso, una sola instancia, errores de guardado recuperables), el panel ampliado con datos reales y las vistas Semana y Mes del historial.
 
