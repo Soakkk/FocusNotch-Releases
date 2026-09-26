@@ -4,12 +4,19 @@ Temporizador flotante para macOS y Windows 11. Canal oficial de instaladores y a
 
 ## Descargar
 
-- [macOS: FocusNotch 2.3.1.dmg](https://github.com/Soakkk/FocusNotch-Releases/releases/download/v2.3.1/FocusNotch-2.3.1.dmg). macOS 14 o posterior; Apple Silicon e Intel.
-- [Windows 11 x64: FocusNotch Setup](https://github.com/Soakkk/FocusNotch-Releases/releases/download/windows-v2.3.0/FocusNotch-Windows-x64-Setup.exe). Instalación por usuario.
+- [macOS: FocusNotch 2.4.0.dmg](https://github.com/Soakkk/FocusNotch-Releases/releases/download/v2.4.0/FocusNotch-2.4.0.dmg). macOS 14 o posterior; Apple Silicon e Intel.
+- [Windows 11 x64: FocusNotch Setup](https://github.com/Soakkk/FocusNotch-Releases/releases/download/windows-v2.4.0/FocusNotch-Windows-x64-Setup.exe). Instalación por usuario.
 
-La versión 2.3.0 incorpora la barra Sesión: cápsula fina, reloj digital, indicadores de bloques, progreso segmentado y efectos breves al interactuar o comenzar un bloque.
+La versión 2.4.0, en Mac y en Windows, añade:
 
-En Mac, la versión 2.3.1 permite mover la barra arrastrando el reloj o los indicadores de sesión. La flecha abre los detalles. Windows continúa en 2.3.0.
+- Una barra que muestra su estado de un vistazo.
+- Un sonido para cada momento, y un recordatorio si el estudio espera tras el descanso.
+- Menú «Sesión» y atajos globales opcionales.
+- Objetivos con días de estudio y objetivo semanal.
+- Asignaturas y exámenes.
+- Un historial graduado según el objetivo.
+
+Windows también gana fiabilidad (reloj preciso, una sola instancia, errores de guardado recuperables), el panel ampliado con datos reales y las vistas Semana y Mes del historial.
 
 ## Si ya tienes FocusNotch
 
