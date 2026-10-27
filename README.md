@@ -4,16 +4,14 @@ Temporizador flotante para macOS y Windows 11. Canal oficial de instaladores y a
 
 ## Descargar
 
-- [macOS: FocusNotch 2.5.0.dmg](https://github.com/Soakkk/FocusNotch-Releases/releases/download/v2.5.0/FocusNotch-2.5.0.dmg). macOS 14 o posterior; Apple Silicon e Intel.
-- [Windows 11 x64: FocusNotch Setup](https://github.com/Soakkk/FocusNotch-Releases/releases/download/windows-v2.5.0/FocusNotch-Windows-x64-Setup.exe). Instalación por usuario.
+- [macOS: FocusNotch 2.6.0.dmg](https://github.com/Soakkk/FocusNotch-Releases/releases/download/v2.6.0/FocusNotch-2.6.0.dmg). macOS 14 o posterior; Apple Silicon e Intel.
+- [Windows 11 x64: FocusNotch Setup](https://github.com/Soakkk/FocusNotch-Releases/releases/download/windows-v2.6.0/FocusNotch-Windows-x64-Setup.exe). Instalación por usuario.
 
-La versión 2.5.0, en Mac y en Windows, estrena el panel ampliado «Compañero». Se lee en tres escalas:
+La versión 2.6.0 permite dar al primer Pomodoro y su descanso una duración diferente a la de los siguientes. Por ejemplo, empezar con 50 minutos de estudio y 10 de descanso, y continuar con 25/5.
 
-- El bloque: reloj que se apaga en pausa y el bloque en curso.
-- La sesión: barra del plan y hora a la que terminas.
-- El día: tarjeta HOY con anillo del objetivo, previsión frente al objetivo y aviso de medianoche.
+En Ajustes → Sesión (Mac) o Ajustes → Temporizador (Windows), selecciona **50/10 → 25/5** o activa el primer bloque diferente y escribe tus tiempos. Los preajustes 25/5, 50/10 y 90/20 siguen disponibles para sesiones uniformes. El primer par vuelve al comenzar cada sesión, también al repetir; el descanso largo tiene prioridad cuando toca.
 
-Además, la acción principal es sólida, al completar ves un resumen y la asignatura y el examen se ven de un vistazo. Incluye todo lo de la 2.4: estados de la barra, sonidos y recordatorio, menú «Sesión» y atajos, objetivos, asignaturas y exámenes, e historial graduado.
+Las previsiones siguen la nueva secuencia y el bloque en curso conserva su duración. Incluye el panel «Compañero», los temas, atajos, objetivos, asignaturas, exámenes e historial de las versiones anteriores.
 
 ## Si ya tienes FocusNotch
 
