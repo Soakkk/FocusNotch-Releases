@@ -4,14 +4,14 @@ Temporizador flotante para macOS y Windows 11. Canal oficial de instaladores y a
 
 ## Descargar
 
-- [macOS: FocusNotch 2.6.1.dmg](https://github.com/Soakkk/FocusNotch-Releases/releases/download/v2.6.1/FocusNotch-2.6.1.dmg). macOS 14 o posterior; Apple Silicon e Intel.
+- [macOS: FocusNotch 2.6.2.dmg](https://github.com/Soakkk/FocusNotch-Releases/releases/download/v2.6.2/FocusNotch-2.6.2.dmg). macOS 14 o posterior; Apple Silicon e Intel.
 - [Windows 11 x64: FocusNotch Setup](https://github.com/Soakkk/FocusNotch-Releases/releases/download/windows-v2.6.1/FocusNotch-Windows-x64-Setup.exe). Instalación por usuario.
 
 La versión 2.6 permite dar al primer Pomodoro y su descanso una duración diferente a la de los siguientes. Por ejemplo, empezar con 50 minutos de estudio y 10 de descanso, y continuar con 25/5.
 
 En Ajustes → Sesión (Mac) o Ajustes → Temporizador (Windows), selecciona **50/10 → 25/5** o activa el primer bloque diferente y escribe tus tiempos. Los preajustes 25/5, 50/10 y 90/20 siguen disponibles para sesiones uniformes. El primer par vuelve al comenzar cada sesión, también al repetir; el descanso largo tiene prioridad cuando toca.
 
-La edición de Windows 2.6.1 mejora además el contraste de los ajustes y los mantiene por encima del panel flotante. En Mac 2.6.1, activa **Ajustes → Progreso → Contar lo estudiado hoy** para ver el total diario en el reloj principal y en la barra superior, sin objetivos ni horas pendientes. Las pausas y descansos no suman; el Pomodoro mantiene su ritmo y muestra el tiempo del bloque como dato secundario.
+La edición de Windows 2.6.1 mejora además el contraste de los ajustes y los mantiene por encima del panel flotante. En Mac 2.6.2, activa **Ajustes → Progreso → Contar lo estudiado hoy** para ver el total diario sin objetivos ni horas pendientes. Puedes desactivar **Mostrar el total diario en el reloj** para mantener la cuenta atrás del Pomodoro en el reloj principal y en la barra superior. «Sesión actual» y «Hoy» muestran sus respectivos tiempos estudiados; el total diario empieza de cero al cambiar de día y conserva el historial. Pausas y descansos no suman.
 
 Las previsiones siguen la nueva secuencia y el bloque en curso conserva su duración. Incluye el panel «Compañero», los temas, atajos, objetivos, asignaturas, exámenes e historial de las versiones anteriores.
 
