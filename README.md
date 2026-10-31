@@ -4,14 +4,14 @@ Temporizador flotante para macOS y Windows 11. Canal oficial de instaladores y a
 
 ## Descargar
 
-- [macOS: FocusNotch 2.7.1.dmg](https://github.com/Soakkk/FocusNotch-Releases/releases/download/v2.7.1/FocusNotch-2.7.1.dmg). macOS 14 o posterior; Apple Silicon e Intel.
+- [macOS: FocusNotch 2.8.0.dmg](https://github.com/Soakkk/FocusNotch-Releases/releases/download/v2.8.0/FocusNotch-2.8.0.dmg). macOS 14 o posterior; Apple Silicon e Intel.
 - [Windows 11 x64: FocusNotch Setup](https://github.com/Soakkk/FocusNotch-Releases/releases/download/windows-v2.6.1/FocusNotch-Windows-x64-Setup.exe). Instalación por usuario.
 
 La versión 2.6 permite dar al primer Pomodoro y su descanso una duración diferente a la de los siguientes. Por ejemplo, empezar con 50 minutos de estudio y 10 de descanso, y continuar con 25/5.
 
 En Ajustes → Sesión (Mac) o Ajustes → Temporizador (Windows), selecciona **50/10 → 25/5** o activa el primer bloque diferente y escribe tus tiempos. Los preajustes 25/5, 50/10 y 90/20 siguen disponibles para sesiones uniformes. El primer par se aplica al comenzar cada sesión; el descanso largo tiene prioridad cuando toca. En Mac 2.7, «Seguir sin límite» mantiene las duraciones habituales después del primer bloque, sin reiniciarlo cada cuatro bloques.
 
-La edición de Windows 2.6.1 mejora además el contraste de los ajustes y los mantiene por encima del panel flotante. En Mac 2.7.1, activa **Ajustes → Progreso → Contar lo estudiado hoy** para ver el total diario sin objetivos ni horas pendientes. Puedes desactivar **Mostrar el total diario en el reloj** para mantener la cuenta atrás del Pomodoro en el reloj principal y en la barra superior. «Sesión actual» y «Hoy» muestran sus respectivos tiempos estudiados; el total diario empieza de cero al cambiar de día y conserva el historial. Pausas y descansos no suman.
+La edición de Windows 2.6.1 mejora además el contraste de los ajustes y los mantiene por encima del panel flotante. En Mac 2.8.0, activa **Ajustes → Progreso → Contar lo estudiado hoy** para ver el total diario sin objetivos ni horas pendientes. Puedes desactivar **Mostrar el total diario en el reloj** para mantener la cuenta atrás del Pomodoro en el reloj principal y en la barra superior. «Sesión actual» y «Hoy» muestran sus respectivos tiempos estudiados; el total diario empieza de cero al cambiar de día y conserva el historial. Pausas y descansos no suman.
 
 Las previsiones siguen la nueva secuencia y el bloque en curso conserva su duración. Incluye el panel «Compañero», los temas, atajos, objetivos, asignaturas, exámenes e historial de las versiones anteriores.
 
@@ -29,3 +29,12 @@ Para una primera instalación en Mac, abre el DMG y arrastra FocusNotch a Aplica
 Esta distribución personal de macOS usa firma local ad hoc, sin notarización de Apple. Mantiene sandbox y firmas del catálogo y actualizaciones, con una excepción de validación de bibliotecas limitada a FocusNotch para cargar el actualizador.
 
 Este repositorio contiene únicamente información de distribución, catálogos firmados e instaladores. No contiene código fuente de la app, claves privadas ni datos de sesiones.
+
+## Estudio y descanso a tu ritmo (Mac2.8.0)
+
+Activa **Ajustes → Sesión → Confirmar los cambios entre estudio y descanso**.
+Cuando termina el bloque aparece **Tiempo extra**: el contador sigue en positivo y todo lo que estudies suma a la sesión y a Hoy.
+**Empezar descanso** inicia el descanso completo desde ese momento.
+Al terminar, **Volver a estudiar** inicia el siguiente bloque; el tiempo de espera no cuenta como estudio.
+El aviso aparece en el panel sin quitar el teclado a tu aplicación. El modo automático anterior sigue disponible.
+
