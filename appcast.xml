@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>FocusNotch</title>
         <item>
-            <title>2.8.0</title>
-            <pubDate>Sat, 31 Oct 2026 15:04:02 +0100</pubDate>
-            <sparkle:version>28000</sparkle:version>
-            <sparkle:shortVersionString>2.8.0</sparkle:shortVersionString>
+            <title>2.9.0</title>
+            <pubDate>Sat, 31 Oct 2026 15:46:22 +0100</pubDate>
+            <sparkle:version>29000</sparkle:version>
+            <sparkle:shortVersionString>2.9.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="vaCHt5gBoom5OnX3S9MCNQy10HQLpocdDbBaX1nW7X1IuAMr484qPe/4rvxUI+0/wN9lsgipr2R/jmKoOGkICQ==" sparkle:length="1209">https://github.com/Soakkk/FocusNotch-Releases/releases/download/v2.8.0/FocusNotch-2.8.0.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/Soakkk/FocusNotch-Releases/releases/download/v2.8.0/FocusNotch-2.8.0.dmg" length="7037215" type="application/octet-stream" sparkle:edSignature="lmzsmS9tvML/MywxscSKtOP6ct908f//HO7HgRWUbjn/z1ekd/X8dGsntTcpVCs9u+7nkhm4G3GCXkatSNXDBw=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="TFccfCuFO52Zhe/W84ZZbN2yLKuiA0q9eQUlfp81i/hpsjUdKV9oOi0/MzjFLd/m0pe5JfD471iuzdZMWPEqBw==" sparkle:length="1137">https://github.com/Soakkk/FocusNotch-Releases/releases/download/v2.9.0/FocusNotch-2.9.0.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/Soakkk/FocusNotch-Releases/releases/download/v2.9.0/FocusNotch-2.9.0.dmg" length="8086526" type="application/octet-stream" sparkle:edSignature="AiPbfAjpGBJnOhq2f1d7JEZm2xYk81rU9CX2e228bECJxzGV2fmrYYL0LpvRgxFjHYxu4loAu8txtcSunoL2Cg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: jM7tQIeeUuu807ELCDYuDlnxAiYkWO6IXQx3m2pD807DmnSF2LaS904mUwW5D6at4EK+ltVd185c3TM8RBuLCQ==
+edSignature: 0BrQGWz3v9Wt4OieO3NN2LMR/tLs+nqA8g7gCjNRoElDt5HQ23rKyvs3EccRmtzhlCqCMiaaIz5Z9YGndFaZCQ==
 length: 1347
 -->
