@@ -4,8 +4,10 @@ Temporizador flotante para macOS y Windows 11. Canal oficial de instaladores y a
 
 ## Descargar
 
-- [macOS: FocusNotch 2.8.0.dmg](https://github.com/Soakkk/FocusNotch-Releases/releases/download/v2.8.0/FocusNotch-2.8.0.dmg). macOS 14 o posterior; Apple Silicon e Intel.
+- [macOS: FocusNotch 2.9.0.dmg](https://github.com/Soakkk/FocusNotch-Releases/releases/download/v2.9.0/FocusNotch-2.9.0.dmg). macOS 14 o posterior; Apple Silicon e Intel.
 - [Windows 11 x64: FocusNotch Setup](https://github.com/Soakkk/FocusNotch-Releases/releases/download/windows-v2.6.1/FocusNotch-Windows-x64-Setup.exe). Instalación por usuario.
+
+Mac 2.9.0 estrena cinco temas: **Grafito, Marfil, Cristal, Neón suave y Pixel**, con reloj centrado, esquinas redondeadas y un botón de descanso destacado durante el tiempo extra. Los nuevos sonidos de estudio y descanso son breves y fáciles de distinguir; el recordatorio es más suave. Puedes ajustar el volumen y escucharlos en Ajustes.
 
 La versión 2.6 permite dar al primer Pomodoro y su descanso una duración diferente a la de los siguientes. Por ejemplo, empezar con 50 minutos de estudio y 10 de descanso, y continuar con 25/5.
 
