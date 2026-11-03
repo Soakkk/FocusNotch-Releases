@@ -4,20 +4,26 @@ Temporizador flotante para macOS y Windows 11. Canal oficial de instaladores y a
 
 ## Descargar
 
-- [macOS: FocusNotch 2.9.0.dmg](https://github.com/Soakkk/FocusNotch-Releases/releases/download/v2.9.0/FocusNotch-2.9.0.dmg). macOS 14 o posterior; Apple Silicon e Intel.
-- [Windows 11 x64: FocusNotch Setup](https://github.com/Soakkk/FocusNotch-Releases/releases/download/windows-v2.6.1/FocusNotch-Windows-x64-Setup.exe). Instalación por usuario.
+- [macOS: FocusNotch 2.10.0.dmg](https://github.com/Soakkk/FocusNotch-Releases/releases/download/v2.10.0/FocusNotch-2.10.0.dmg). macOS 14 o posterior; Apple Silicon e Intel.
+- [Windows 11 x64: FocusNotch Setup 2.10.0](https://github.com/Soakkk/FocusNotch-Releases/releases/download/windows-v2.10.0/FocusNotch-Windows-x64-Setup.exe). Instalación por usuario.
 
-Mac 2.9.0 estrena cinco temas: **Grafito, Marfil, Cristal, Neón suave y Pixel**, con reloj centrado, esquinas redondeadas y un botón de descanso destacado durante el tiempo extra. Los nuevos sonidos de estudio y descanso son breves y fáciles de distinguir; el recordatorio es más suave. Puedes ajustar el volumen y escucharlos en Ajustes.
+## Novedades de 2.10.0
 
-La versión 2.6 permite dar al primer Pomodoro y su descanso una duración diferente a la de los siguientes. Por ejemplo, empezar con 50 minutos de estudio y 10 de descanso, y continuar con 25/5.
+**Un historial entre tus equipos.** «Continuar con Google» abre el navegador y conecta la cuenta que ya utilizas. El tiempo guardado al pausar, descansar, finalizar o cerrar se reúne en el historial. Cada equipo mantiene su reloj y sus ajustes: el otro ordenador no reanuda el minuto exacto donde lo dejaste. Sin conexión, el estudio queda guardado y se sincroniza después. Las sesiones y los intervalos de estudio solapados no se cuentan dos veces.
 
-En Ajustes → Sesión (Mac) o Ajustes → Temporizador (Windows), selecciona **50/10 → 25/5** o activa el primer bloque diferente y escribe tus tiempos. Los preajustes 25/5, 50/10 y 90/20 siguen disponibles para sesiones uniformes. El primer par se aplica al comenzar cada sesión; el descanso largo tiene prioridad cuando toca. En Mac 2.7, «Seguir sin límite» mantiene las duraciones habituales después del primer bloque, sin reiniciarlo cada cuatro bloques.
+En Mac entra en **Ajustes → General**; en Windows, **Ajustes → Cuenta**. Inicia sesión una vez en cada equipo con la misma cuenta de Google y concede el permiso para guardar los datos propios de FocusNotch. No necesitas instalar Drive ni elegir carpetas.
 
-La edición de Windows 2.6.1 mejora además el contraste de los ajustes y los mantiene por encima del panel flotante. En Mac 2.8.0, activa **Ajustes → Progreso → Contar lo estudiado hoy** para ver el total diario sin objetivos ni horas pendientes. Puedes desactivar **Mostrar el total diario en el reloj** para mantener la cuenta atrás del Pomodoro en el reloj principal y en la barra superior. «Sesión actual» y «Hoy» muestran sus respectivos tiempos estudiados; el total diario empieza de cero al cambiar de día y conserva el historial. Pausas y descansos no suman.
+El historial se guarda en el espacio privado de la aplicación en Google Drive. FocusNotch no solicita acceso a Gmail ni a tus otros archivos de Drive. La conexión es opcional: puedes seguir usando la app solo en tu equipo. [Política de privacidad](PRIVACY.md).
 
-Las previsiones siguen la nueva secuencia y el bloque en curso conserva su duración. Incluye el panel «Compañero», los temas, atajos, objetivos, asignaturas, exámenes e historial de las versiones anteriores.
+**Cinco temas revisados:** Grafito, Marfil, Cristal, Neón suave y Pixel. Cada uno conserva sus colores y controles; Neón y Pixel tienen dígitos propios. Cristal utiliza el material translúcido del sistema cuando está disponible y respeta la opción de reducir transparencia.
 
-En Mac 2.7 también puedes arrastrar la barra por las zonas libres y recordar su posición en cada pantalla. El descanso muestra su color y el total de hoy. El aviso opcional de pausa olvidada pregunta al volver tras diez minutos de inactividad si quieres contar ese tiempo. Las vistas ocultas dejan de actualizarse.
+**Barra más cómoda en Mac.** Se puede arrastrar por todas las zonas libres, incluida la parte derecha. La mano se abre al pasar por una zona de arrastre y se cierra al agarrarla. Los botones conservan sus acciones.
+
+## Estudio y descanso
+
+Puedes dar al primer bloque una duración distinta a los siguientes: por ejemplo, **50/10 → 25/5**, además de los preajustes uniformes. El resumen diario cuenta el tiempo estudiado, y el historial conserva los días anteriores.
+
+En Mac, **Ajustes → Sesión → Confirmar los cambios entre estudio y descanso** mantiene el estudio en «Tiempo extra» al terminar el bloque. Ese tiempo sigue sumando. **Empezar descanso** inicia el descanso completo cuando lo decides; al terminar, **Volver a estudiar** inicia el siguiente bloque. Los avisos tienen volumen ajustable.
 
 ## Si ya tienes FocusNotch
 
@@ -31,12 +37,3 @@ Para una primera instalación en Mac, abre el DMG y arrastra FocusNotch a Aplica
 Esta distribución personal de macOS usa firma local ad hoc, sin notarización de Apple. Mantiene sandbox y firmas del catálogo y actualizaciones, con una excepción de validación de bibliotecas limitada a FocusNotch para cargar el actualizador.
 
 Este repositorio contiene únicamente información de distribución, catálogos firmados e instaladores. No contiene código fuente de la app, claves privadas ni datos de sesiones.
-
-## Estudio y descanso a tu ritmo (Mac2.8.0)
-
-Activa **Ajustes → Sesión → Confirmar los cambios entre estudio y descanso**.
-Cuando termina el bloque aparece **Tiempo extra**: el contador sigue en positivo y todo lo que estudies suma a la sesión y a Hoy.
-**Empezar descanso** inicia el descanso completo desde ese momento.
-Al terminar, **Volver a estudiar** inicia el siguiente bloque; el tiempo de espera no cuenta como estudio.
-El aviso aparece en el panel sin quitar el teclado a tu aplicación. El modo automático anterior sigue disponible.
-
