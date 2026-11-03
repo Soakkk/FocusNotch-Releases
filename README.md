@@ -4,10 +4,17 @@ Temporizador flotante para macOS y Windows 11. Canal oficial de instaladores y a
 
 ## Descargar
 
-- [macOS: FocusNotch 2.10.0.dmg](https://github.com/Soakkk/FocusNotch-Releases/releases/download/v2.10.0/FocusNotch-2.10.0.dmg). macOS 14 o posterior; Apple Silicon e Intel.
-- [Windows 11 x64: FocusNotch Setup 2.10.0](https://github.com/Soakkk/FocusNotch-Releases/releases/download/windows-v2.10.0/FocusNotch-Windows-x64-Setup.exe). Instalación por usuario.
+- [macOS: FocusNotch 2.11.0.dmg](https://github.com/Soakkk/FocusNotch-Releases/releases/download/v2.11.0/FocusNotch-2.11.0.dmg). macOS 14 o posterior; Apple Silicon e Intel.
+- [Windows 11 x64: FocusNotch Setup 2.11.0](https://github.com/Soakkk/FocusNotch-Releases/releases/download/windows-v2.11.0/FocusNotch-Windows-x64-Setup.exe). Instalación por usuario.
 
-## Novedades de 2.10.0
+## Novedades de 2.11.0
+
+- **Panel grande revisado:** tipografía propia de cada tema, reloj digital, sesión actual y estudio de hoy claramente separados, con acciones lado a lado.
+- **Barra fina y redondeada:** café y flecha son dos botones independientes. El café controla el descanso y la flecha despliega el panel.
+- **Finalizar desde la barra:** doble clic sobre el reloj abre «¿Finalizar sesión?». «Seguir» cancela; «Finalizar y guardar» conserva lo estudiado. Arrastrar no activa la confirmación.
+- Conserva el historial, la cuenta de Google, los ajustes y la misma instalación con actualizaciones automáticas.
+
+## Historial compartido con Google
 
 **Un historial entre tus equipos.** «Continuar con Google» abre el navegador y conecta la cuenta que ya utilizas. El tiempo guardado al pausar, descansar, finalizar o cerrar se reúne en el historial. Cada equipo mantiene su reloj y sus ajustes: el otro ordenador no reanuda el minuto exacto donde lo dejaste. Sin conexión, el estudio queda guardado y se sincroniza después. Las sesiones y los intervalos de estudio solapados no se cuentan dos veces.
 
@@ -23,7 +30,7 @@ El historial se guarda en el espacio privado de la aplicación en Google Drive. 
 
 Puedes dar al primer bloque una duración distinta a los siguientes: por ejemplo, **50/10 → 25/5**, además de los preajustes uniformes. El resumen diario cuenta el tiempo estudiado, y el historial conserva los días anteriores.
 
-En Mac, **Ajustes → Sesión → Confirmar los cambios entre estudio y descanso** mantiene el estudio en «Tiempo extra» al terminar el bloque. Ese tiempo sigue sumando. **Empezar descanso** inicia el descanso completo cuando lo decides; al terminar, **Volver a estudiar** inicia el siguiente bloque. Los avisos tienen volumen ajustable.
+En Mac, **Ajustes → Sesión → Confirmar los cambios entre estudio y descanso** mantiene el estudio en «Tiempo extra» al terminar el bloque. Ese tiempo sigue sumando. **El botón del café** inicia el descanso completo cuando lo decides; al terminar, **Volver a estudiar** inicia el siguiente bloque. Los avisos tienen volumen ajustable.
 
 ## Si ya tienes FocusNotch
 
