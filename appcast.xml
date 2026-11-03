@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>FocusNotch</title>
         <item>
-            <title>2.9.0</title>
-            <pubDate>Sat, 31 Oct 2026 15:46:22 +0100</pubDate>
-            <sparkle:version>29000</sparkle:version>
-            <sparkle:shortVersionString>2.9.0</sparkle:shortVersionString>
+            <title>2.10.0</title>
+            <pubDate>Tue, 03 Nov 2026 01:21:26 +0100</pubDate>
+            <sparkle:version>210000</sparkle:version>
+            <sparkle:shortVersionString>2.10.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="TFccfCuFO52Zhe/W84ZZbN2yLKuiA0q9eQUlfp81i/hpsjUdKV9oOi0/MzjFLd/m0pe5JfD471iuzdZMWPEqBw==" sparkle:length="1137">https://github.com/Soakkk/FocusNotch-Releases/releases/download/v2.9.0/FocusNotch-2.9.0.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/Soakkk/FocusNotch-Releases/releases/download/v2.9.0/FocusNotch-2.9.0.dmg" length="8086526" type="application/octet-stream" sparkle:edSignature="AiPbfAjpGBJnOhq2f1d7JEZm2xYk81rU9CX2e228bECJxzGV2fmrYYL0LpvRgxFjHYxu4loAu8txtcSunoL2Cg=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="boLA8Szj2oee/V0g5Q7MLRw8O4/yyOXH1G5Rq0d68jUI6LmoiAbofk1YSPRMkhiAGHBl3Vxdx23VzHvoFfxxBw==" sparkle:length="1300">https://github.com/Soakkk/FocusNotch-Releases/releases/download/v2.10.0/FocusNotch-2.10.0.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/Soakkk/FocusNotch-Releases/releases/download/v2.10.0/FocusNotch-2.10.0.dmg" length="8014365" type="application/octet-stream" sparkle:edSignature="cNNI15ChVdphXXJQoybOqYzaCF8GTcTnLbv8wb3V439aR7RLdRCjkKtR/AWZHJnOgzr/VsVGJIU5671uHwysAw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 0BrQGWz3v9Wt4OieO3NN2LMR/tLs+nqA8g7gCjNRoElDt5HQ23rKyvs3EccRmtzhlCqCMiaaIz5Z9YGndFaZCQ==
-length: 1347
+edSignature: u8NVUkv+b3bGIKsylHUlMDgbRY7PxBDcThWfgRSzdSn2RJbHy3gVjFI5wvs1LsYD59vJITJfV2DonR8p1zV5Cw==
+length: 1354
 -->
