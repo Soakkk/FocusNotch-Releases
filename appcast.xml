@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>FocusNotch</title>
         <item>
-            <title>2.10.0</title>
-            <pubDate>Tue, 03 Nov 2026 01:21:26 +0100</pubDate>
-            <sparkle:version>210000</sparkle:version>
-            <sparkle:shortVersionString>2.10.0</sparkle:shortVersionString>
+            <title>2.11.0</title>
+            <pubDate>Tue, 03 Nov 2026 11:25:49 +0100</pubDate>
+            <sparkle:version>211000</sparkle:version>
+            <sparkle:shortVersionString>2.11.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="boLA8Szj2oee/V0g5Q7MLRw8O4/yyOXH1G5Rq0d68jUI6LmoiAbofk1YSPRMkhiAGHBl3Vxdx23VzHvoFfxxBw==" sparkle:length="1300">https://github.com/Soakkk/FocusNotch-Releases/releases/download/v2.10.0/FocusNotch-2.10.0.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/Soakkk/FocusNotch-Releases/releases/download/v2.10.0/FocusNotch-2.10.0.dmg" length="8014365" type="application/octet-stream" sparkle:edSignature="cNNI15ChVdphXXJQoybOqYzaCF8GTcTnLbv8wb3V439aR7RLdRCjkKtR/AWZHJnOgzr/VsVGJIU5671uHwysAw=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="bGt31ygnSEHaEF3R2WIYCeT6S+DiupZ9WSF1lpv4x9HqQMMH+yzGVEN2ddzxosgR7Cn9XHqKAZO/iHLAlMUgCg==" sparkle:length="1163">https://github.com/Soakkk/FocusNotch-Releases/releases/download/v2.11.0/FocusNotch-2.11.0.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/Soakkk/FocusNotch-Releases/releases/download/v2.11.0/FocusNotch-2.11.0.dmg" length="8076302" type="application/octet-stream" sparkle:edSignature="ReWwScte2TUr0B6fhmG4kRIBGbR+hDp0XWyJa30WQPW64XsD4NJpbKEGnqQ5RyLfQVLo9bIDE7jNbSfrj4T3Bw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: u8NVUkv+b3bGIKsylHUlMDgbRY7PxBDcThWfgRSzdSn2RJbHy3gVjFI5wvs1LsYD59vJITJfV2DonR8p1zV5Cw==
+edSignature: cKe7Ws/vAnr6WAKynagRtIAhgoOtVwS8EYraV0HbQCWgERBkMQPbHhU26t0YmetaYUp8OozQcjBgOcBeSn19Dg==
 length: 1354
 -->
